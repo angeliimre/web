@@ -14,6 +14,5 @@ If you press the "Számol" button you can see the price of your cart.
 # Getting started
 After cloning this project you need to run the next lines in terminal:
 - npm install
-- npm i react-redux
-- npm i @reduxjs/toolkit
+- npm i react-router-dom
 - npm start
